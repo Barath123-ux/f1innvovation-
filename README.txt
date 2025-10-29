@@ -1,0 +1,1 @@
+F1 Innovation - Static Website (10 pages)\nMain file: f1innovation.html\n\nHow to use:\n1. Open f1innovation.html in your browser to view the site locally.\n2. To use contact form, replace the Formspree action URL with your form ID.\n3. To host: upload the entire folder 'f1innovation_site' to Netlify (drag & drop), Vercel (static), or GitHub Pages.\n
